@@ -1,0 +1,44 @@
+h1{
+			text-align:center;
+			font-size:40px;
+			color:pink; 
+		}
+		.warp{
+			width:700px;
+			margin:0 auto;
+			margin-top: 10px
+		}
+		.add{
+			overflow: hidden;
+		}
+		.add .content{
+			width:698px;
+			margin:0px;
+			padding:0px;
+		}
+		.add .user{
+			float:left;
+		}
+		.add .btn{
+			float:right;
+		}
+		.msg{
+			margin:20px 0px;
+			background:#ccc;
+			padding:5px;
+		}
+		.msg .info{
+			overflow: hidden;
+		}
+		.msg .user{
+			float:left;
+			color:red;
+		}
+		.msg .time{
+			float:right;
+			color:#999;
+		}
+		.msg .content{
+			width: 100%;
+			padding:5px;
+		}
